@@ -63,3 +63,13 @@ chat_group_app/
 - Backend: Golang with Socket.IO
 - State Management: BLoC
 - Real-time Communication: Socket.IO/WebSockets 
+
+## Screenshots
+
+### Join Screen
+![Join Screen](screenshots/join_screen.png)
+*Users can enter their username to join the chat*
+
+### Chat Interface
+![Chat Interface](screenshots/chat_screen.png)
+*Real-time messaging with typing indicators and online users*
